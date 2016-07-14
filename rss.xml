@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Riser Chair Studio]]></title>
+        <description><![CDATA[Riser Chair Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 10:42:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Riser Chairs - The Definitive Buyers Guide 2016]]></title>
+            <description><![CDATA[<article><h1>Riser Chairs - The Definitive Buyers Guide 2016</h1><p>A definitive buyer's guide to Riser Recliner Chairs updated for 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b162094875eef353b88286bf17f7c97d/croprotate.jpg?cropheight=257&cropwidth=221&degrees=0&input=http%3A%2F%2Fwww.riserchairstudio.co.uk%2Fuploads%2F4%2F7%2F6%2F6%2F47662579%2F6720055.jpg%3F1463991688&x=1&y=1"></article>]]></description>
+            <link>http://www.riserchairstudio.co.uk/buyers-guide.html</link>
+            <guid isPermaLink="false">d04598ca-1f77-4ab1-a624-059dd430212b</guid>
+            <pubDate>Thu, 14 Jul 2016 10:42:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
